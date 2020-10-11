@@ -1,0 +1,17 @@
+.photo-user {
+    margin-top: 16px;
+    float: right;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.full-width span {
+    padding-right: 10px;
+}
+
+mat-label {
+    color: rgba(0, 0, 0, 0.56);
+}
+
