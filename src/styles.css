@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family:'Open Sans', Open Sans, sans-serif; }
+
+.clear-both{
+    clear: both;
+}
+.f-r{
+    float: right;
+}
+.f-l{
+    float: left;
+}
+.w-100{
+    width: 100%;
+    background-color: red;
+}
+.font-text-primary{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    padding-bottom: 8px;
+    border-bottom: #FF8822 solid 2px;
+    width: 224px;
+}
+
+.font-text-secondary{
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.color-primary {
+    color: #FF8822;
+}
+
+.color-gray{
+    color: rgba(0, 0, 0, 0.56);
+}
+
+.mt-24 {
+    margin-top: 24px;
+}
