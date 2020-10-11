@@ -1,0 +1,28 @@
+<mat-sidenav-container class="container">
+    <mat-sidenav class="sidenav" mode="side" opened fixedInViewport="true">
+
+        <div class="white-logo">
+            <img src="assets/logo/white_logo.png" alt="Appetit"/>
+        </div>
+
+        <mat-nav-list class="nav-list">
+            <a mat-list-item>
+                <i class="material-icons">
+                    list_alt
+                </i>
+                Pedidos
+            </a>
+            <a mat-list-item>
+                <i class="material-icons">
+                    person_outline
+                </i>
+                Clientes
+            </a>
+        </mat-nav-list>
+    </mat-sidenav>
+
+    <mat-sidenav-content class="content">
+        <app-pedidos></app-pedidos>
+    </mat-sidenav-content>
+
+</mat-sidenav-container>

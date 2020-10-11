@@ -1,0 +1,28 @@
+.sidenav{
+    background-color: #FF8822;
+    width: 342px;
+}
+
+.white-logo{
+    text-align: center;
+    padding-top: 58px;
+    padding-bottom: 80px;
+}
+
+.sidenav a {
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.sidenav i {
+    padding-right: 28px;
+    padding-left: 28px;
+}
+
+.content{
+    padding: 40px;
+    background: #fafafa;
+    height: 100%;
+}
