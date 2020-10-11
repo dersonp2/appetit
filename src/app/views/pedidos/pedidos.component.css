@@ -1,5 +1,4 @@
 .photo-user {
-    margin-top: 16px;
     float: right;
 }
 
@@ -14,4 +13,3 @@
 mat-label {
     color: rgba(0, 0, 0, 0.56);
 }
-
